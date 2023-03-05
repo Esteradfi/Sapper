@@ -4,12 +4,15 @@
 
 ## Установка
 
-### git clone https://github.com/Esteradfi/sapper.git
+### 
+    git clone https://github.com/Esteradfi/sapper.git
     cd sapper
     npm install
     
 ## Сборка dev
-### npm start
+### 
+    npm start
 
 ## Сборка production 
-### npm run build
+### 
+    npm run build
