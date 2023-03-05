@@ -2,6 +2,10 @@
 
 Приложение сделано при помощи React.js.
 
+## Ссылка на gh-pages
+### 
+    https://esteradfi.github.io/sapper/
+
 ## Установка
 
 ### 
